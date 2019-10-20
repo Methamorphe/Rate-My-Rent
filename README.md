@@ -1,3 +1,3 @@
-# projet-LocatairesProprietaires
+# Rate-My-Rent
 
-## Work in Progress
+## Disponible à l'adresse : rate-my-rent.fr
